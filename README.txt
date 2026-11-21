@@ -1,10 +1,7 @@
-SEO upgrade for https://ahsankafco.github.io/ai-digital-forensics/
+Research Evidence Explorer upgrade — based on the uploaded published MDPI Digital 2026 article, Table 10 and Table 13.
 
-1. Upload index.html to the ROOT of https://github.com/ahsankafco/ai-digital-forensics, replacing the old index.html.
-2. Keep the Google verification file and sitemap.xml in place.
-3. Wait for GitHub Pages deployment, then inspect the homepage.
-4. Google Search Console: use URL Inspection and request indexing if the page has changed substantially.
+Replace ONLY the root index.html in your GitHub Pages repository. Keep sitemap.xml, robots.txt and Google verification file.
 
-The visual design and page body are preserved. Added canonical URL, Open Graph URL for the companion page, Twitter metadata, and structured WebPage/ScholarlyArticle/FAQPage entities.
+Explorer: 16 task groups, 6 dimensions, 96 ratings; search/filter/sort; baseline categories 3/12/1; source links and caveats.
 
-Note: the official scholarly article is on MDPI. This GitHub page is a companion site, not the publisher version. Structured data does not guarantee search ranking or AI citations.
+The existing site design, sections, FAQ, and SEO metadata are retained.
