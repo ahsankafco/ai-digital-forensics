@@ -1,18 +1,10 @@
-AI IN DIGITAL FORENSICS — CUSTOM RESEARCH LANDING PAGE
+SEO upgrade for https://ahsankafco.github.io/ai-digital-forensics/
 
-This is a redesigned, single-file, responsive website with original CSS and inline SVG illustration.
+1. Upload index.html to the ROOT of https://github.com/ahsankafco/ai-digital-forensics, replacing the old index.html.
+2. Keep the Google verification file and sitemap.xml in place.
+3. Wait for GitHub Pages deployment, then inspect the homepage.
+4. Google Search Console: use URL Inspection and request indexing if the page has changed substantially.
 
-PUBLISH TO GITHUB PAGES
-1. Open https://github.com/ahsankafco/ai-digital-forensics
-2. Upload index.html to the repository ROOT (not inside a folder). Replace the old index.html if one exists.
-3. Commit the change to the main branch.
-4. Go to Settings > Pages > Build and deployment.
-5. Select Deploy from a branch; choose main and /(root); click Save.
-6. Wait for GitHub Pages to deploy. The expected URL is:
-   https://ahsankafco.github.io/ai-digital-forensics/
-7. After publishing, verify links and request indexing through Google Search Console.
+The visual design and page body are preserved. Added canonical URL, Open Graph URL for the companion page, Twitter metadata, and structured WebPage/ScholarlyArticle/FAQPage entities.
 
-NOTE
-- This page is an independent companion page and links to the authoritative MDPI publication.
-- The visual evidence network and pipeline are conceptual illustrations, not results from an experiment.
-- For best SEO, update og:url to the final GitHub Pages address after deployment.
+Note: the official scholarly article is on MDPI. This GitHub page is a companion site, not the publisher version. Structured data does not guarantee search ranking or AI citations.
