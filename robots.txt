@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /ai-digital-forensics/
+
+Sitemap: https://ahsankafco.github.io/ai-digital-forensics/sitemap.xml
